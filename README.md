@@ -1,4 +1,4 @@
-### Hi there, I'm Finu Muhammed Shaheem [website] 👋
+#### Hi there, I'm Finu Muhammed Shaheem [website] 👋
 
 
 ## I'm a Student Developer!!
@@ -53,4 +53,4 @@
 [twitter]: https://twitter.com/finushaheem
 [Facebook: https://www.facebook.com/Finushaheem/
 [instagram]: https://www.instagram.com/finushaheem
-[linkedin]: https://www.linkedin.com/in/finushaheem/"# finushaheem" 
+[linkedin]: https://www.linkedin.com/in/finushaheem/
