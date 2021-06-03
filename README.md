@@ -51,6 +51,6 @@
 
 [website]: https://finushaheem.github.io/portfolio/
 [twitter]: https://twitter.com/finushaheem/
-[Facebook: https://www.facebook.com/Finushaheem/
+[Facebook]: https://www.facebook.com/Finushaheem/
 [instagram]: https://www.instagram.com/finushaheem/
 [linkedin]: https://www.linkedin.com/in/finushaheem/
