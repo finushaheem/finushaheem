@@ -1,5 +1,9 @@
 ### Hi there, I'm Finu Muhammed Shaheem [website] 👋
 
+<hr>
+<img align='right' src="C:\Users\Finu Shaheem\Documents\GitHub\finu\Programmer.gif" width="390">
+
+
 
 ## I'm a Student Developer!!
 
