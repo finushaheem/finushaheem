@@ -1,7 +1,7 @@
-### Hi there, I'm Finu Muhammed Shaheem [website] 👋
+### Hi there, I'm Finu Muhammed Shaheem 👋
 
 <hr>
-<img align='right' src="Programmer.gif" width="300">
+<img loop align='right' src="Programmer.gif" width="300">
 
 
 
@@ -14,6 +14,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Finu Muhammed Shaheem| Website" width="22px" src="global.svg" />][website]
 [<img align="left" alt="Finu Muhammed Shaheem| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Finu Muhammed Shaheem | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Finu Muhammed Shaheem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
