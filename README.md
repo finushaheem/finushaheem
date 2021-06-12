@@ -1,10 +1,5 @@
 ### Hi there, I'm Finu Muhammed Shaheem 👋
 
-<hr>
-<img loop align='right' src="Programmer.gif" width="300">
-
-
-
 ## I'm a Student Developer!!
 
 - 🔭 I am currently Learning Docker
