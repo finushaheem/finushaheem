@@ -2,7 +2,7 @@
 
 ## I'm a Student Developer!!
 
-- 🔭 I am currently Learning Docker
+- 🔭 I am currently Learning Javascript
 - 👨‍💻 I am a Microsoft Student Ambassador
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn.
