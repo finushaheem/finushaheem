@@ -46,7 +46,7 @@
 
 </details>
 
-[website]: https://finushaheem.github.io/portfolio/
+[website]: https://finushaheem.live/
 [twitter]: https://twitter.com/finushaheem/
 [Facebook]: https://www.facebook.com/Finushaheem/
 [instagram]: https://www.instagram.com/finushaheem/
